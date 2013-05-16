@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+    <item>
+        <path>civicrm/civcaseui</path>
+        <page_callback>CRM_Caseui_Form_Caseui</page_callback>
+        <title>Case Creation Interface</title>
+        <access_arguments>make online contributions</access_arguments>
+    </item>
+</menu>
